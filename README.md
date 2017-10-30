@@ -1,2 +1,1 @@
-# WUIW1703-blog
-WUIW1703班级博客项目提交地址
+http://bokemvc.duapp.com/mvc1703/index.php

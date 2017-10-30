@@ -1,2 +1,1 @@
-# WUIW1703-blog
-WUIW1703班级博客项目提交地址
+https://18035830571.github.io/progress/w1703mvc-master/template/index/index.html

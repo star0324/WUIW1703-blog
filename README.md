@@ -1,1 +1,1 @@
-zzblog.duapp.com
+http://zzblog.duapp.com/

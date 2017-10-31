@@ -1,2 +1,3 @@
 # WUIW1703-blog
-WUIW1703班级博客项目提交地址
+前台   http://oneblog.duapp.com/
+后台   http://oneblog.duapp.com/backmange-one/index.php   用户zhangsan   密码123456
